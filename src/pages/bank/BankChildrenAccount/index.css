@@ -1,0 +1,25 @@
+.add-children-container {
+  width: 60%;
+  padding: 0 5%;
+  margin: 4% auto;
+  font-size: 16px;
+}
+.add-children-container .add-children-header {
+  margin: 10% 0;
+  text-align: center;
+}
+.add-children-container .add-children-information input{
+  height: 50px;
+}
+.add-children-container .add-children-information button {
+  width: 40%;
+  height: 40px;
+  margin: 4% 30%;
+  font-size: 16px;
+}
+.add-children-container .add-children-information label {
+  width: 20%;
+}
+.add-children-container .add-children-information .form-group {
+  margin-top: 2%;
+}

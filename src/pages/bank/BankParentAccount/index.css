@@ -1,0 +1,38 @@
+.add-parent-container {
+  width: 60%;
+  padding: 0 5%;
+  margin: 4% auto;
+  font-size: 16px;
+}
+.add-parent-container .add-parent-header {
+  margin: 10% 0;
+  text-align: center;
+}
+.add-parent-container .add-parent-information input {
+  height: 50px;
+}
+.add-parent-container .add-parent-information button {
+  width: 40%;
+  height: 40px;
+  margin: 4% 30%;
+  font-size: 16px;
+}
+.add-parent-container .add-parent-information label {
+  width: 20%;
+}
+.add-parent-container .add-parent-information .form-group {
+  margin-top: 2%;
+}
+.bank-account-container {
+  width: 85%;
+  font-size: 16px;
+  margin: 0 auto;
+}
+.bank-account-container .add-button {
+  margin: 2% 0%;
+  height: 40px;
+  font-size: 16px;
+}
+.bank-account-container .bank-account-table {
+  width: 100%;;
+}

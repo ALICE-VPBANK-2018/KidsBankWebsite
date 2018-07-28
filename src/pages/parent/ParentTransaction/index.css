@@ -1,0 +1,30 @@
+.add-transaction-container {
+  width: 60%;
+  padding: 0 5%;
+  margin: 4% auto;
+  font-size: 16px;
+}
+.add-transaction-container .add-transaction-header {
+  margin: 10% 0;
+  text-align: center;
+}
+.add-transaction-container .add-transaction-information input  {
+  height: 50px;
+}
+.add-transaction-container .add-transaction-information select {
+  height: 40px;
+  width: 30%;
+}
+
+.add-transaction-container .add-transaction-information button {
+  width: 40%;
+  height: 40px;
+  margin: 4% 30%;
+  font-size: 16px;
+}
+.add-transaction-container .add-transaction-information label {
+  width: 20%;
+}
+.add-transaction-container .add-transaction-information .form-group {
+  margin-top: 2%;
+}

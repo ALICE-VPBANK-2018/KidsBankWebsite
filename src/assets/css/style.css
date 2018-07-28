@@ -1,0 +1,16 @@
+body, html {
+  background: #F4F4F6;
+  height: 100%;
+}
+.bank-bar {
+  margin-top: 1%;
+  background: #2E153C;
+  border:0px;
+}
+.bank-bar ul {
+  margin-left: 4%;
+  font-size: 17px;
+}
+.admin-page .admin-content {
+  margin: 2% 5%;
+}
