@@ -71,9 +71,9 @@ class ParentTransaction extends Component {
   }
   render() {
     return (
-      <div className="add-transaction-container">
+      <div className="bank-transaction-container">
         <h3 className="add-transaction-header"> Transaction</h3>
-        <div className="add-transaction-table">
+        <div className="bank-transaction-table">
           <table className="table table-striped">
             <thead>
               <tr>

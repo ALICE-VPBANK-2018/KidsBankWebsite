@@ -44,7 +44,7 @@ class ParentSendMoney extends Component {
   }
   render() {
     return (
-      <div className="add-transaction-container">
+      <div className="bank-transaction-container">
       <h3 className="add-transaction-header"> New Transaction</h3>
       <div className="add-transaction-information">
         <div className="form-group form-inline">
